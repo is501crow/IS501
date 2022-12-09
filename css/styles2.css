@@ -1,0 +1,49 @@
+body {font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: rgb(88, 87, 87);
+background-color: rgb(202, 202, 202);}
+
+li{font-size: 14px;
+    font-style: italic;
+    font-weight: normal;}
+
+a{font-style: italic;
+text-decoration: none;}
+
+a:hover {text-decoration: underline; 
+    /* font-weight: bold; */
+}
+
+a:visited{color: blueviolet;}
+
+h4{color: black;}
+
+h1{color: white;}
+
+.resumelistheading{font-weight: bold;
+    font-style: normal;}
+
+.underline{text-decoration: underline;}
+
+.bold{font-weight: bold;}
+
+.justify{text-align: justify;}
+
+.homebg{;
+/* background-repeat: ; */
+}
+
+.box1{
+    border-width: 1px;
+    border-style: solid;
+    border-color: blueviolet;
+}
+
+.box2{
+padding: 5px;
+}
+
+.box3{
+margin: 50px;
+}
+/*  Here are a few comments to summarize what we did in the tutorial videos*/
